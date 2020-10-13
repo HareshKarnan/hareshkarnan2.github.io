@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mechanical Engineering (Robotics Portfolio Program), The University of Texas at Austin, 2021 (expected)
+* M.S. in Dynamic systems and Controls, Aerospace Engineering, Texas A&M University, College Station, 2018
+* B.Tech. in Instrumentation and Control, National Institute of Technology, Tiruchirappalli, India, 2016
 
 Work experience
 ======
